@@ -49,3 +49,5 @@ Adequate spacing and margins enhance visual separation between elements.
 
 Responsive Design:
 Media queries are employed to adjust the layout for screens with a minimum width of 900px.
+
+![Screenshot 2023-09-24 054335](https://github.com/as1291/Pricing-Panel/assets/104453241/33e0956c-38f1-4163-88cd-00d9e7dbabb6)
